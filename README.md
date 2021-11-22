@@ -2,3 +2,4 @@
 hub_repo
 change in hub
 modify locally
+modified remote
